@@ -31,6 +31,9 @@ function App() {
             <h2>Examples</h2>
             <menu>
               <TabButtom>Basic</TabButtom>
+              <TabButtom>JSX</TabButtom>
+              <TabButtom>State</TabButtom>
+              <TabButtom>Props</TabButtom>
             </menu>
           </section>
         </main>
